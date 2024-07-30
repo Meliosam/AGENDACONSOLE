@@ -1,0 +1,8 @@
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.pdb
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.exe
+C:\Users\Danilo Filitto\source\repos\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.pdb
